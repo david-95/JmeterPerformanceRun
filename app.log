@@ -1,0 +1,1196 @@
+11:19:15.043 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:981 } - get suite templatenull
+11:19:15.047 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:985 } - get suite templatenull
+11:19:15.048 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:986 } - get suite templatenull
+11:20:54.748 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1026 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:20:54.753 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1031 } - get suite templateB2B-Login_mainPage_Logout_50t
+11:20:54.753 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1031 } - get suite templateB2B-Login_mainPage_Logout_25t
+11:21:46.834 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1009 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:21:46.838 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1013 } - get suite configs
+		
+		
+		
+		
+		
+		
+		
+		
+	
+11:21:46.838 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1013 } - get suite templateB2B-Login_mainPage_Logout_50t
+11:21:46.838 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1013 } - get suite configs
+		
+		
+		
+		
+		
+		
+		
+		
+	
+11:21:46.839 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1014 } - get suite templateB2B-Login_mainPage_Logout_25t
+11:21:46.839 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1014 } - get suite configs
+		
+		
+		
+		
+		
+		
+		
+		
+	
+11:22:48.059 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1073 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:22:48.066 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1080 } - get suite configs
+		
+		/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+		
+		
+			100
+			1
+
+		
+		
+		/root/scripts/b2b_guanglan/b2b_users.csv
+		
+		/root/scripts/b2b_guanglan/outputs
+	
+11:22:48.066 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1080 } - get suite templateB2B-Login_mainPage_Logout_50t
+11:22:48.067 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1081 } - get suite configs
+		
+		/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+		
+		
+			50
+			1
+		
+		
+		/root/scripts/b2b_guanglan/b2b_users.csv
+		
+		/root/scripts/b2b_guanglan/outputs
+	
+11:22:48.067 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1081 } - get suite templateB2B-Login_mainPage_Logout_25t
+11:22:48.067 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1081 } - get suite configs
+		
+		/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+		
+		
+			25
+			1
+		
+		
+		/root/scripts/b2b_guanglan/b2b_users.csv
+		
+		/root/scripts/b2b_guanglan/outputs
+	
+11:26:14.469 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1036 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:26:14.473 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1040 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:26:14.474 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1041 } - get suite templateB2B-Login_mainPage_Logout_50t
+11:26:14.475 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1042 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:26:14.475 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1042 } - get suite templateB2B-Login_mainPage_Logout_25t
+11:26:14.476 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1043 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:37:45.808 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1011 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:37:45.812 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1015 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:39:03.877 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1016 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:39:03.881 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1020 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:40:15.812 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1069 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:40:15.818 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1075 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:41:03.671 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1045 } - get suite templateB2B-Login_mainPage_Logout_100t
+11:41:03.679 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1053 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:41:03.688 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1062 } - Testgroup num_threads100
+11:41:03.688 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1062 } - get suite templateB2B-Login_mainPage_Logout_50t
+11:41:03.688 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1062 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:41:03.689 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1063 } - Testgroup num_threads50
+11:41:03.689 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1063 } - get suite templateB2B-Login_mainPage_Logout_25t
+11:41:03.689 [main] INFO  mylog -{Method:getSuite,RunningTimeFromStart:1063 } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:41:03.690 [main] DEBUG mylog -{Method:getSuite,RunningTimeFromStart:1064 } - Testgroup num_threads25
+17:10:29.925 [main] INFO  mylog -{Method:main,RunningTimeFromStart:703 } - Usage: java -jar jmeterPerfRunner.jar config.xml
+10:59:20.108 [main] INFO  mylog -{Method:<init> } - Read config file:null
+11:00:13.140 [main] INFO  mylog -{Method:<init> } - Read config file:null
+11:03:45.536 [main] INFO  mylog -{Method:<init> } - Read config file:null
+11:05:00.804 [main] INFO  mylog -{Method:<init> } - Read config file:null
+11:08:23.840 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+11:08:23.895 [main] DEBUG mylog -{Method:getSuites } - get suite templateB2B_Login_mainPage_Logout_100t
+11:08:23.895 [main] INFO  mylog -{Method:getSuites } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:08:23.896 [main] DEBUG mylog -{Method:getSuites } - Testgroup num_threads:100,ramp_time:1
+11:08:23.897 [main] DEBUG mylog -{Method:getSuites } - get suite templateB2B_Login_mainPage_Logout_50t
+11:08:23.898 [main] INFO  mylog -{Method:getSuites } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:08:23.898 [main] DEBUG mylog -{Method:getSuites } - Testgroup num_threads:50,ramp_time:1
+11:08:23.898 [main] DEBUG mylog -{Method:getSuites } - get suite templateB2B_Login_mainPage_Logout_25t
+11:08:23.899 [main] INFO  mylog -{Method:getSuites } - get suite configs:template/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+		
+11:08:23.899 [main] DEBUG mylog -{Method:getSuites } - Testgroup num_threads:25,ramp_time:1
+11:08:23.899 [main] DEBUG mylog -{Method:getSuites } - get suite templateB2B_OpenProductDetai_Login_Order_Logout_100t
+11:08:23.900 [main] INFO  mylog -{Method:getSuites } - get suite configs:template/root/scripts/b2b_guanglan/B2B-OpenProductDetail_Login_PlaceOrder_Logout.jmx
+		
+11:08:23.900 [main] DEBUG mylog -{Method:getSuites } - Testgroup num_threads:100,ramp_time:1
+11:08:23.901 [main] DEBUG mylog -{Method:getSuites } - get suite templateB2B_OpenProductDetai_Login_Order_Logout_50t
+11:08:23.901 [main] INFO  mylog -{Method:getSuites } - get suite configs:template/root/scripts/b2b_guanglan/B2B-OpenProductDetail_Login_PlaceOrder_Logout.jmx
+		
+11:08:23.901 [main] DEBUG mylog -{Method:getSuites } - Testgroup num_threads:50,ramp_time:1
+11:08:23.902 [main] DEBUG mylog -{Method:getSuites } - get suite templateB2B_OpenProductDetai_Login_Order_Logout_25t
+11:08:23.902 [main] INFO  mylog -{Method:getSuites } - get suite configs:template/root/scripts/b2b_guanglan/B2B-OpenProductDetail_Login_PlaceOrder_Logout.jmx
+		
+11:08:23.903 [main] DEBUG mylog -{Method:getSuites } - Testgroup num_threads:25,ramp_time:1
+13:32:22.218 [main] INFO  mylog -{Method:<init> } - Read config file:null
+13:33:53.612 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\DemoSimpleRunningConfigs.xml
+13:36:00.849 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\DemoSimpleRunningConfigs.xml
+16:12:48.881 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:12:48.885 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:12:48.885 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:12:48.885 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/template
+16:15:43.169 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:15:43.172 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:15:43.173 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:15:43.173 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:16:24.725 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:16:24.730 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:16:24.730 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:16:24.731 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:16:24.731 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:16:24.733 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:16:24.734 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:16:24.734 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:16:24.734 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:29:53.029 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+16:32:00.151 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+16:32:21.022 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:32:21.032 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:32:21.039 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:32:21.048 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:32:21.055 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:32:21.062 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:32:21.069 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:32:21.075 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:32:21.081 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:33:30.699 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:33:30.706 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:33:30.713 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:33:30.722 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:33:30.730 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:33:30.736 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:33:30.743 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:33:30.750 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:33:30.755 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:54:59.567 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+16:54:59.597 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:54:59.597 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:54:59.598 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:54:59.598 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:54:59.598 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:54:59.598 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:54:59.599 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:54:59.599 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:54:59.599 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:54:59.600 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,xpath=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+16:54:59.600 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,xpath=/root/scripts/b2b_guanglan/b2b_users.csv
+16:54:59.600 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,xpath=/root/scripts/b2b_guanglan/outputs
+16:54:59.600 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,xpath=100
+16:54:59.601 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,xpath=1
+16:54:59.601 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,xpath=false
+16:54:59.601 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,xpath=-2
+16:54:59.601 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,xpath=true
+16:54:59.601 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,xpath=100
+16:54:59.603 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:54:59.604 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:54:59.604 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:54:59.604 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:54:59.604 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:54:59.604 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:54:59.605 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:54:59.605 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:54:59.605 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:54:59.605 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,xpath=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+16:54:59.605 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,xpath=/root/scripts/b2b_guanglan/b2b_users.csv
+16:54:59.606 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,xpath=/root/scripts/b2b_guanglan/outputs
+16:54:59.606 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,xpath=80
+16:54:59.606 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,xpath=1
+16:54:59.606 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,xpath=false
+16:54:59.606 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,xpath=-2
+16:54:59.607 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,xpath=true
+16:54:59.607 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,xpath=200
+16:55:34.795 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+16:55:34.827 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:55:34.827 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:55:34.827 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:55:34.828 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:55:34.828 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:55:34.828 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:55:34.829 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:55:34.829 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:55:34.829 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:55:34.829 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,xpath=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+16:55:34.829 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,xpath=/root/scripts/b2b_guanglan/b2b_users.csv
+16:55:34.830 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,xpath=/root/scripts/b2b_guanglan/outputs
+16:55:34.830 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,xpath=100
+16:55:34.830 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,xpath=1
+16:55:34.830 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,xpath=false
+16:55:34.830 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,xpath=-2
+16:55:34.831 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,xpath=true
+16:55:34.831 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,xpath=100
+16:55:34.833 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+16:55:34.833 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+16:55:34.834 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+16:55:34.834 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+16:55:34.834 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+16:55:34.834 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+16:55:34.834 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+16:55:34.835 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+16:55:34.835 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+16:55:34.835 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,xpath=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+16:55:34.836 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,xpath=/root/scripts/b2b_guanglan/b2b_users.csv
+16:55:34.836 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,xpath=/root/scripts/b2b_guanglan/outputs
+16:55:34.836 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,xpath=80
+16:55:34.836 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,xpath=1
+16:55:34.836 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,xpath=false
+16:55:34.836 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,xpath=-2
+16:55:34.837 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,xpath=true
+16:55:34.837 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,xpath=200
+17:03:14.681 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:03:14.720 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:03:14.721 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:03:14.721 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:03:14.721 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:03:14.721 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:03:14.722 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:03:14.722 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:03:14.722 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:03:14.722 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:03:14.723 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+17:03:14.723 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:03:14.723 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:03:14.724 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:03:14.724 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:03:14.725 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:03:14.725 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:03:14.725 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:03:14.725 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:03:14.728 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:03:14.729 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:03:14.729 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:03:14.729 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:03:14.729 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:03:14.730 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:03:14.730 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:03:14.730 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:03:14.731 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:03:14.731 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+17:03:14.731 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:03:14.731 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:03:14.732 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:03:14.732 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:03:14.732 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:03:14.733 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:03:14.733 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:03:14.733 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:06:35.154 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:06:35.196 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:06:35.196 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:06:35.197 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:06:35.197 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:06:35.198 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:06:35.198 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:06:35.199 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:06:35.199 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:06:35.199 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:06:35.199 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+17:06:35.200 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:06:35.200 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:06:35.200 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:06:35.201 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:06:35.201 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:06:35.201 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:06:35.201 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:06:35.202 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:06:35.205 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:06:35.206 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:06:35.206 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:06:35.206 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:06:35.206 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:06:35.207 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:06:35.207 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:06:35.207 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:06:35.208 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:06:35.208 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+17:06:35.208 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:06:35.209 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:06:35.209 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:06:35.209 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:06:35.209 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:06:35.210 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:06:35.210 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:06:35.210 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:14:34.478 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:14:34.507 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:14:34.507 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:14:34.508 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:14:34.508 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:14:34.508 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:14:34.509 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:14:34.509 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:14:34.509 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:14:34.510 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:14:34.510 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+17:14:34.510 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:14:34.510 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:14:34.510 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:14:34.511 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:14:34.511 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:14:34.511 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:14:34.511 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:14:34.511 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:14:34.514 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:14:34.515 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:14:34.515 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:14:34.516 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:14:34.516 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:14:34.516 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:14:34.516 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:14:34.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:14:34.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:14:34.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=/root/scripts/b2b_guanglan/B2B-Login_mainPage_Logout.jmx
+17:14:34.518 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:14:34.518 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:14:34.518 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:14:34.518 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:14:34.519 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:14:34.519 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:14:34.519 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:14:34.519 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:32:51.435 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:32:51.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:32:51.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:32:51.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:32:51.466 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:32:51.466 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:32:51.466 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:32:51.466 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:32:51.467 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:32:51.467 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:32:51.467 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:32:51.468 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:32:51.468 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:32:51.468 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:32:51.468 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:32:51.468 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:32:51.469 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:32:51.469 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:32:51.469 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:32:51.472 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:32:51.473 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:32:51.473 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:32:51.473 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:32:51.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:32:51.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:32:51.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:32:51.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:32:51.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:32:51.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:32:51.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:32:51.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:32:51.476 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:32:51.476 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:32:51.476 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:32:51.476 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:32:51.477 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:32:51.477 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:38:20.097 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:38:20.132 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:38:20.133 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:38:20.133 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:38:20.134 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:38:20.134 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:38:20.134 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:38:20.134 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:38:20.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:38:20.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:38:20.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:38:20.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:38:20.136 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:38:20.136 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:38:20.136 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:38:20.136 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:38:20.136 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:38:20.136 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:38:20.137 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:38:20.139 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:38:20.140 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:38:20.140 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:38:20.140 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:38:20.140 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:38:20.140 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:38:20.141 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:38:20.141 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:38:20.141 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:38:20.141 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:38:20.141 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:38:20.142 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:38:20.142 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:38:20.142 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:38:20.143 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:38:20.143 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:38:20.143 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:38:20.143 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:40:49.717 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:40:49.757 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:40:49.758 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:40:49.758 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:40:49.759 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:40:49.759 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:40:49.759 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:40:49.760 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:40:49.760 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:40:49.760 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:40:49.761 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:40:49.761 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:40:49.761 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:40:49.761 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:40:49.762 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:40:49.762 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:40:49.762 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:40:49.762 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:40:49.763 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:40:49.766 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:40:49.767 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:40:49.767 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:40:49.767 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:40:49.768 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:40:49.768 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:40:49.768 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:40:49.768 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:40:49.769 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:40:49.769 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:40:49.769 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:40:49.770 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:40:49.771 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:40:49.771 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:40:49.771 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:40:49.771 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:40:49.772 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:40:49.772 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:40:49.795 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath=//suite[1]/template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:43:20.187 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:43:20.228 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:43:20.228 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:43:20.228 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:43:20.229 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:43:20.229 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:43:20.229 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:43:20.230 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:43:20.230 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:43:20.230 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:43:20.231 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:43:20.231 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:43:20.231 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:43:20.231 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:43:20.232 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:43:20.232 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:43:20.232 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:43:20.232 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:43:20.233 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:43:20.236 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:43:20.236 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:43:20.236 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:43:20.237 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:43:20.237 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:43:20.237 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:43:20.237 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:43:20.238 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:43:20.238 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:43:20.238 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:43:20.238 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:43:20.241 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:43:20.241 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:43:20.242 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:43:20.242 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:43:20.242 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:43:20.242 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:43:20.243 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:44:18.964 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath=//suite[1]/template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:49:58.268 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+17:49:58.300 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:49:58.301 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:49:58.301 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:49:58.302 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:49:58.302 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:49:58.302 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:49:58.303 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:49:58.303 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:49:58.303 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:49:58.304 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:49:58.304 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:49:58.304 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:49:58.305 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+17:49:58.305 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:49:58.305 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:49:58.306 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:49:58.306 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:49:58.306 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+17:49:58.308 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+17:49:58.309 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+17:49:58.309 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+17:49:58.309 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+17:49:58.309 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+17:49:58.309 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+17:49:58.310 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+17:49:58.310 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+17:49:58.310 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+17:49:58.310 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+17:49:58.311 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+17:49:58.311 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+17:49:58.311 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+17:49:58.311 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+17:49:58.312 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+17:49:58.312 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+17:49:58.312 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+17:49:58.313 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+17:49:58.342 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath=//suite/template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:19:53.283 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+18:19:53.333 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+18:19:53.334 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+18:19:53.334 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+18:19:53.335 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+18:19:53.335 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+18:19:53.336 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+18:19:53.336 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+18:19:53.337 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+18:19:53.337 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+18:19:53.338 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:19:53.338 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:19:53.339 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:19:53.339 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+18:19:53.339 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:19:53.339 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:19:53.339 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:19:53.339 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:19:53.340 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+18:19:53.343 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name="ThreadGroup.num_threads"]
+18:19:53.343 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+18:19:53.343 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+18:19:53.344 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+18:19:53.344 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+18:19:53.344 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+18:19:53.345 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath=//suite/CSVDataSet/stringProp[@name='filename']
+18:19:53.345 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath=//suite/template
+18:19:53.345 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath=//suite/output_path
+18:19:53.346 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:19:53.346 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:19:53.346 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:19:53.346 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+18:19:53.347 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:19:53.347 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:19:53.347 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:19:53.347 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:19:53.348 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+18:20:23.394 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath=//suite/template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:23:24.076 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+18:23:24.105 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+18:23:24.106 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+18:23:24.106 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+18:23:24.106 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+18:23:24.106 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+18:23:24.107 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+18:23:24.107 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath="//suite/CSVDataSet/stringProp[@name='filename']"
+18:23:24.107 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath="//suite/template"
+18:23:24.107 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath="//suite/output_path"
+18:23:24.107 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:23:24.107 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:23:24.108 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:23:24.108 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+18:23:24.108 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:23:24.108 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:23:24.108 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:23:24.108 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:23:24.109 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+18:23:24.112 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+18:23:24.112 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+18:23:24.112 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+18:23:24.112 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+18:23:24.112 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+18:23:24.113 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+18:23:24.113 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath="//suite/CSVDataSet/stringProp[@name='filename']"
+18:23:24.113 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath="//suite/template"
+18:23:24.113 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath="//suite/output_path"
+18:23:24.113 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:23:24.116 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:23:24.116 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:23:24.116 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+18:23:24.117 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:23:24.117 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:23:24.117 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:23:24.117 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:23:24.117 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+18:23:24.136 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath="//suite/template",value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:23:24.172 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath="//suite/template",value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:27:43.440 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+18:27:43.471 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+18:27:43.471 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+18:27:43.472 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+18:27:43.472 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+18:27:43.472 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+18:27:43.473 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+18:27:43.473 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath="//suite/CSVDataSet/stringProp[@name='filename']"
+18:27:43.473 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath="//suite/template"
+18:27:43.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath="//suite/output_path"
+18:27:43.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:27:43.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:27:43.474 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:27:43.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+18:27:43.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:27:43.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:27:43.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:27:43.475 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:27:43.476 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+18:27:43.478 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+18:27:43.479 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+18:27:43.479 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+18:27:43.479 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+18:27:43.480 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+18:27:43.480 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+18:27:43.480 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath="//suite/CSVDataSet/stringProp[@name='filename']"
+18:27:43.480 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath="//suite/template"
+18:27:43.481 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath="//suite/output_path"
+18:27:43.481 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:27:43.481 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:27:43.481 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:27:43.482 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+18:27:43.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:27:43.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:27:43.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:27:43.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:27:43.484 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+18:27:43.503 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath="//suite[1]/template",value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:27:43.536 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath="//suite[1]/template",value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:29:03.595 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+18:29:03.643 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+18:29:03.643 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+18:29:03.643 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+18:29:03.644 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+18:29:03.644 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+18:29:03.644 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+18:29:03.644 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath="//suite/CSVDataSet/stringProp[@name='filename']"
+18:29:03.644 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath="//suite/template"
+18:29:03.645 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath="//suite/output_path"
+18:29:03.645 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:29:03.645 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:29:03.646 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:29:03.646 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+18:29:03.646 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:29:03.646 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:29:03.646 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:29:03.647 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:29:03.647 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+18:29:03.650 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+18:29:03.650 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+18:29:03.651 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+18:29:03.651 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+18:29:03.651 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+18:29:03.651 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+18:29:03.652 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet,xpath="//suite/CSVDataSet/stringProp[@name='filename']"
+18:29:03.652 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on template,xpath="//suite/template"
+18:29:03.652 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on output_path,xpath="//suite/output_path"
+18:29:03.653 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on template,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+18:29:03.653 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+18:29:03.653 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on output_path,value=/root/scripts/b2b_guanglan/outputs
+18:29:03.653 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+18:29:03.654 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+18:29:03.654 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+18:29:03.654 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+18:29:03.654 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+18:29:03.655 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+18:29:16.823 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keytemplate,xpath="//suite[1]/template",value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:32:46.432 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+11:32:46.464 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on templatePath,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on jmxFolder,value=c:/tmp
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on outputFolder,value=/root/scripts/b2b_guanglan/outputs
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on JmxPropertiesSetting,value=100
+			1
+
+			
+			false
+			
+			-2
+
+			
+			true
+			100
+			
+			/root/scripts/b2b_guanglan/b2b_users.csv
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on templatePath,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on jmxFolder,value=c:/tmp/
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on outputFolder,value=/root/scripts/b2b_guanglan/outputs
+11:32:46.465 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on JmxPropertiesSetting,value=80
+			1
+
+			
+			false
+			
+			-2
+
+			
+			true
+			200
+			
+			
+			/root/scripts/b2b_guanglan/b2b_users.csv
+11:36:57.143 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on templatePath,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on jmxFolder,value=c:/tmp
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on outputFolder,value=/root/scripts/b2b_guanglan/outputs
+11:36:57.175 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on JmxPropertiesSetting,value=100
+			1
+
+			
+			false
+			
+			-2
+
+			
+			true
+			100
+			
+			/root/scripts/b2b_guanglan/b2b_users.csv
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on templatePath,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on jmxFolder,value=c:/tmp
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on outputFolder,value=/root/scripts/b2b_guanglan/outputs
+11:36:57.190 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on JmxPropertiesSetting,value=80
+			1
+
+			
+			false
+			
+			-2
+
+			
+			true
+			200
+			
+			
+			/root/scripts/b2b_guanglan/b2b_users.csv
+11:38:26.749 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on templatePath,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on jmxFolder,value=c:/tmp
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on outputFolder,value=/root/scripts/b2b_guanglan/outputs
+11:38:26.765 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on JmxPropertiesSetting,value=100
+			1
+
+			
+			false
+			
+			-2
+
+			
+			true
+			100
+			
+			/root/scripts/b2b_guanglan/b2b_users.csv
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on templatePath,value=c:/tmp/B2B-Login_mainPage_Logout.jmx
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on jmxFolder,value=c:/tmp
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on outputFolder,value=/root/scripts/b2b_guanglan/outputs
+11:38:26.782 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on JmxPropertiesSetting,value=80
+			1
+
+			
+			false
+			
+			-2
+
+			
+			true
+			200
+			
+			
+			/root/scripts/b2b_guanglan/b2b_users.csv
+14:32:11.072 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:32:11.119 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:32:11.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:32:11.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:32:11.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:32:11.135 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:32:11.166 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath="//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']",value=100
+14:34:11.385 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:34:11.417 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:34:11.433 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:34:11.433 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:34:11.433 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:34:11.433 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:34:11.479 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads'],value=100
+14:40:05.924 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:40:05.955 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:40:05.971 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:40:05.971 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:40:05.971 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:40:05.972 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:40:05.987 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads'],value=100
+14:40:58.708 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:40:58.740 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads']
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:40:58.756 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:40:58.802 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/StringProp[@name='ThreadGroup.num_threads'],value=100
+14:43:59.377 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:43:59.409 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:43:59.425 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:43:59.441 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:43:59.441 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:43:59.441 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:43:59.456 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=100
+14:44:18.535 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']",value=true
+14:45:35.087 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=80
+14:45:51.265 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']",value=true
+14:48:18.469 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath="//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath="//ThreadGroup/stringProp[@name='ThreadGroup.duration']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath="//CSVDataSet/stringProp[@name='filename']"
+14:48:18.501 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:48:18.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:48:18.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:48:18.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:48:18.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:48:18.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:48:18.517 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:48:18.548 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=100
+14:48:37.268 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath="//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']",value=true
+14:53:30.120 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=80
+14:57:01.396 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+14:57:01.428 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:57:01.444 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:57:01.491 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=100
+14:57:16.597 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:57:16.630 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:57:16.661 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=100
+14:57:31.372 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler'],value=true
+14:57:35.959 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time'],value=1
+14:59:11.019 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+14:59:11.051 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on csvfilepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+14:59:11.098 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads
+14:59:11.098 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=100
+14:59:20.473 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler
+14:59:21.613 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler'],value=true
+14:59:26.146 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time
+14:59:31.217 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time'],value=1
+14:59:38.815 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keycsvfilepath
+15:04:32.451 [main] INFO  mylog -{Method:<init> } - Read config file:C:\mavenprj\JmeterPerfRun\src\main\resources\B2B-SimpleRunningConfigs.xml
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=100
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=100
+15:04:32.483 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on CSVDataSet.filepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on LoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on ThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesXpaths } - working on CSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename']
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.num_threads,value=80
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.ramp_time,value=1
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.continue_forever,value=false
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on LoopController.loops,value=-2
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.scheduler,value=true
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on ThreadGroup.duration,value=200
+15:04:32.498 [main] DEBUG mylog -{Method:setTestSuitePropertiesValues } - working on CSVDataSet.filepath,value=/root/scripts/b2b_guanglan/b2b_users.csv
+15:04:32.514 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads
+15:04:32.514 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=100
+15:04:32.561 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler
+15:04:32.561 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler'],value=true
+15:04:32.561 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time
+15:04:32.561 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time'],value=1
+15:04:32.561 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.loops
+15:04:32.561 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops'],value=-2
+15:04:32.576 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyCSVDataSet.filepath
+15:04:32.576 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyCSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename'],value=/root/scripts/b2b_guanglan/b2b_users.csv
+15:04:32.576 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.duration
+15:04:32.576 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration'],value=100
+15:04:32.576 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.continue_forever
+15:04:32.576 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever'],value=false
+15:04:32.639 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads
+15:04:32.639 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.num_threads,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.num_threads'],value=80
+15:04:32.654 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler
+15:04:32.654 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.scheduler,xpath=//ThreadGroup/boolProp[@name='ThreadGroup.scheduler'],value=true
+15:04:32.654 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time
+15:04:32.654 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.ramp_time,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time'],value=1
+15:04:32.654 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.loops
+15:04:32.654 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.loops,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops'],value=-2
+15:04:32.670 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyCSVDataSet.filepath
+15:04:32.670 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyCSVDataSet.filepath,xpath=//CSVDataSet/stringProp[@name='filename'],value=/root/scripts/b2b_guanglan/b2b_users.csv
+15:04:32.670 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.duration
+15:04:32.670 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyThreadGroup.duration,xpath=//ThreadGroup/stringProp[@name='ThreadGroup.duration'],value=200
+15:04:32.670 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.continue_forever
+15:04:32.670 [main] DEBUG mylog -{Method:writeParasFromSuite } - JMXWriter get keyLoopController.continue_forever,xpath=//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever'],value=false

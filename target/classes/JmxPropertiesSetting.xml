@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file is used for JmxProperties reading and running configs setting 
+	each element is coordinating a property setting in .jmx template file if 
+	you want program set a serials of values to generate a serials of jmx files 
+	, and running them in sequences so it get a bunch of tests with different 
+	setting you should do below steps firstly , you set this file ,add element 
+	under properties tag, each tag name is property related to test running. 
+	and set JMX_XPath a xpath string which can locate the position of the property 
+	secondly , you need create RunningConfigs.xml file,e.g. B2B-SimpleRunningConfigs.xml, 
+	set the properties of TestThreadGroup and TestSuite ThreadGroup have TreadGroup 
+	prefix program read JmxProertiesWriterSetting.xml, get all element tag as 
+	key, get Jmx_XPath value as value then it store key&values to TestSuite class 
+	and TestThreadGroup class program read RunningConfigs.xml, generate a serials 
+	of .jmx files TasksBatchRunner.class generate batch file, run these .jmx 
+	files in sequence. -->
+<properties>
+	<ThreadGroup.num_threads>
+		<JMX_XPath>
+			//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']
+		</JMX_XPath>
+	</ThreadGroup.num_threads>
+	<ThreadGroup.ramp_time>
+		<JMX_XPath>
+			//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']
+		</JMX_XPath>
+	</ThreadGroup.ramp_time>
+	<!-- for Mainloop controller -->
+	<LoopController.continue_forever>
+		<JMX_XPath>
+		//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/boolProp[@name='LoopController.continue_forever']
+		</JMX_XPath>
+	</LoopController.continue_forever>
+	<LoopController.loops>
+		<JMX_XPath>
+		//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+		</JMX_XPath>
+	</LoopController.loops>
+	
+	<!--  for scheduler  -->
+	<ThreadGroup.scheduler>
+		<JMX_XPath>
+			//ThreadGroup/boolProp[@name='ThreadGroup.scheduler']
+		</JMX_XPath>
+	</ThreadGroup.scheduler>
+	<ThreadGroup.duration>
+		<JMX_XPath>
+			//ThreadGroup/stringProp[@name='ThreadGroup.duration']
+		</JMX_XPath>
+	</ThreadGroup.duration>
+	<!-- Suite -->
+	<CSVDataSet.filepath>
+		<JMX_XPath>
+		//CSVDataSet/stringProp[@name='filename']
+		</JMX_XPath>
+	</CSVDataSet.filepath>
+</properties>
