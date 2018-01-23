@@ -33,7 +33,7 @@
 	</LoopController.continue_forever>
 	<LoopController.loops>
 		<JMX_XPath>
-		//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/intProp[@name='LoopController.loops']
+		//ThreadGroup/elementProp[@name='ThreadGroup.main_controller']/*[@name='LoopController.loops']
 		</JMX_XPath>
 	</LoopController.loops>
 	
