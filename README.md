@@ -3,7 +3,7 @@
 ## What is JmeterPerformanceRun
 This project is a tool,to make performance test process more quickly. It assist user running performance test via jmeter, help to batch executing performance tests from a config file 
 
-## Usecase scenarios
+## Usecase story
 John would like do perfermance test agains to a web b2b server. He dont' know how many online users the server can bear with.
 so he expect to execute tests with 10 online users, 15 online users, 20 online users do login & browse & logout at same time every 5 mins, keep doing the manipulation in  10 mins , to see how the servers performance.  
 In traditional way, He has to do one test,wait it end, then change test scripts' input parameters, then do next run, repeat the steps till all the tests are done. It a long and tedious work.  
