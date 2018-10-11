@@ -1,5 +1,6 @@
 # JmeterPerformanceRun
-This project is help to batch executing performance tests from a config file , via jmeter
+## What is JmeterPerformanceRun
+This project is a tool,to make performance test process more quickly. It assist user running performance test via jmeter, help to batch executing performance tests from a config file \n
 you record a jmx as template, 
 edit configfile to add config values, such as threads , ramp_time, loop controller,csv dataset ..., almost every tunning configs can be set in this configure file.
 the program will scan the xml config, generate a jmx  instance for each suite, then using regular expression to scan and set values of config to jmx instances, jmx instances are stored to  tag 'jmxFolder' setting folder
