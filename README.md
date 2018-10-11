@@ -1,5 +1,11 @@
 # JmeterPerformanceRun
 This project is help to batch executing performance tests from a config file , via jmeter
+
+## how to run it 
+''' 
+java -jar jmeterPerfRunner.jar config.xml 
+'''
+
 ## config files 
 you must specify a xml config file , config contents as below:
 ```
