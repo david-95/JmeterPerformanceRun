@@ -1,19 +1,26 @@
 # JmeterPerformanceRun
-## What is JmeterPerformanceRun
-This project is a tool,to make performance test process more quickly. It assist user running performance test via jmeter, help to batch executing performance tests from a config file \n
-you record a jmx as template, 
-edit configfile to add config values, such as threads , ramp_time, loop controller,csv dataset ..., almost every tunning configs can be set in this configure file.
-the program will scan the xml config, generate a jmx  instance for each suite, then using regular expression to scan and set values of config to jmx instances, jmx instances are stored to  tag 'jmxFolder' setting folder
-then the program generate a bash script , which contents is jmeter console commands 
-then you run bash scripts manually
-the bash scripts will run all test cases one by one. export test static results to tag 'outputFolder' setting
 
+## What is JmeterPerformanceRun
+This project is a tool,to make performance test process more quickly. It assist user running performance test via jmeter, help to batch executing performance tests from a config file 
+
+## use case scenarios
+John would like do perfermance test agains to a web b2b server. He dont' know how many online users the server can bear with.
+so he expect to execute tests with 10 online users, 15 online users, 20 online users do login & browse & logout at same time every 5 mins, keep doing the manipulation in  10 mins , to see how the servers performance.  
+In traditional way, He has to do one test,wait it end, then change test scripts' input parameters, then do next run, repeat the steps till all the tests are done. It a long and tedious work.  
+But with this tool, what he done is just put all 3 suites of test setting in a xml configuration file. then type a command and run. All tests are executed one by one in sequence. He can run before out of office ,and see tests resulte tommorow. It is much convinient.  
+
+## How to use it 
+1. you record a jmx as template, 
+2. edit configfile to add config values, such as threads , ramp_time, loop controller,csv dataset ..., almost every tunning configs can be set in this configure file.   
+3. the program will scan the xml config, generate a jmx  instance for each suite, then using regular expression to scan and set values of config to jmx instances, jmx instances are stored to  tag 'jmxFolder' setting folder  
+then the program generate a bash script , which contents is jmeter console commands 
+4. you type to run bash scripts to execute all tests.  
+5. the bash scripts will run all test cases one by one. export test static results to tag 'outputFolder' setting  
 
 
 ## how to run it 
-First, you should prepare performance testcase
-you may use jmeter to record a workflow scenario , then just save as jmx. This jmx is save as template
-Second, prepare a folder for bat
+First, you should prepare performance testcase        
+you may use jmeter to record a workflow scenario , then just save as jmx. This jmx is save as template  
 
 ```
 java -jar jmeterPerfRunner.jar config.xml 
