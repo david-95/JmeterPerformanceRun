@@ -25,6 +25,9 @@ you may use jmeter to record a workflow scenario , then just save as jmx. This j
 ```
 java -jar jmeterPerfRunner.jar config.xml 
 ```
+then it run and generate an xxx.bsh file , the name is suites name. for example, if you use below config, it will generate a bash file , named as ProjectName-pc-h5-Run.bsh
+It will prompt to you, if you choose directly run or choose manually run bash file. you better input "No" , then manually run bash file later.(don't ask why)
+
 
 ## Config files 
 you must specify a xml config file , config contents as below:
