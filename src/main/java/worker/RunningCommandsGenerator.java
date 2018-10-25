@@ -3,9 +3,9 @@ package worker;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.nio.file.FileSystem;
+
 import java.nio.file.Files;
-import java.nio.file.Paths;
+
 import java.util.ArrayList;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -16,7 +16,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.dom4j.DocumentException;
-import org.testng.Assert;
+
 import org.xml.sax.SAXException;
 
 import testbase.TestSuite;
@@ -125,7 +125,7 @@ public class RunningCommandsGenerator {
 				generateRunningJMX(aSuite,suiteNum);
 				String commands = this.generateCommand(aSuite);
 				fopt.write((commands+"\n").getBytes());
-				fopt.write("sleep 5m\n".getBytes());
+				fopt.write("sleep 60m\n".getBytes());
 				fopt.flush();
 				suiteNum++;
 			}
