@@ -14,8 +14,10 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.TransformerFactoryConfigurationError;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.xpath.XPath;
@@ -47,8 +49,32 @@ public class JMXWriter {
 		this.targetJMXpath = targetJMXpath;
 	}
 
-	public void writeParasFromSuite(TestSuite suite,int suiteNum) throws ParserConfigurationException, SAXException, IOException,
-			XPathExpressionException, TransformerException {
+	/**
+	 * Function get suite instance
+	 * Read testsuites xpath , open  target jmx  , locate component by xpath and set it's value 
+	 * for example
+	 * //		XPath xPath = XPathFactory.newInstance().newXPath();
+	 * //		Node num_threadNode = (Node) xPath.compile("//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']")
+	 * //				.evaluate(doc, XPathConstants.NODE);
+	 * //		num_threadNode.setTextContent(value_num_thread);
+	 * //
+	 * //		xPath = XPathFactory.newInstance().newXPath();
+	 * //		Node ramp_timeNode = (Node) xPath.compile("//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']")
+	 * //				.evaluate(doc, XPathConstants.NODE);
+	 * //		ramp_timeNode.setTextContent(value_ramp_time);
+	 * 
+	 * 
+	 * @param suite
+	 * @throws XPathExpressionException 
+	 * @throws NullPointerException 
+	 * @throws TransformerException 
+	 * @throws TransformerFactoryConfigurationError 
+	 * @throws ParserConfigurationException 
+	 * @throws IOException 
+	 * @throws SAXException 
+	 * @throws Exception 
+	 */
+	public void writeParasFromSuite(TestSuite suite) throws NullPointerException, XPathExpressionException, TransformerFactoryConfigurationError, TransformerException, ParserConfigurationException, SAXException, IOException  {
 
 
 		File targetJMXFile = new File(targetJMXpath);
@@ -72,24 +98,46 @@ public class JMXWriter {
 			String xpath = xpathMap.get(key).trim();
 			logger.debug("JMXWriter get key"+ key+",xpath="+xpath+",value="+value);
 			if (xpathMap.containsKey(key) && xpath != null) {
-				XPath xPath = XPathFactory.newInstance().newXPath();
-				Node node = (Node) xPath.compile(xpath).evaluate(doc, XPathConstants.NODE);
-				node.setTextContent(value);
+				doc = setXMLValueByXpath(doc,xpath ,value);
 			}
 
 		}
+		JMXValidator validator= new JMXValidator(doc);
+		String schedulerValue = valueMap.get("ThreadGroup.scheduler");
+		String durationValue= valueMap.get("ThreadGroup.duration");
+		String loopCountValue = valueMap.get("LoopController.loops");
+		validator.validateThreadsDurationAndLoopsByValue(suite.getSuiteName(),schedulerValue, durationValue, loopCountValue);
+		writeXmlDoc(doc,targetJMXFile);
+	}
 
-//		XPath xPath = XPathFactory.newInstance().newXPath();
-//		Node num_threadNode = (Node) xPath.compile("//ThreadGroup/stringProp[@name='ThreadGroup.num_threads']")
-//				.evaluate(doc, XPathConstants.NODE);
-//		num_threadNode.setTextContent(value_num_thread);
-//
-//		xPath = XPathFactory.newInstance().newXPath();
-//		Node ramp_timeNode = (Node) xPath.compile("//ThreadGroup/stringProp[@name='ThreadGroup.ramp_time']")
-//				.evaluate(doc, XPathConstants.NODE);
-//		ramp_timeNode.setTextContent(value_ramp_time);
-
-
+	/**
+	 *  open XML Document ， locate xpath  and  set it's value
+	 * @param doc
+	 * @param xpath
+	 * @param value
+	 * @return
+	 * @throws NullPointerException
+	 * @throws XPathExpressionException
+	 */
+	public Document setXMLValueByXpath(Document doc, String xpath, String value ) throws NullPointerException, XPathExpressionException {
+		if(doc ==null || xpath == null ||  value == null || xpath.trim() =="") {
+			 throw new NullPointerException("Document or Xpath or value is not valid ,maybe null");
+		}
+		XPath XPathLocator = XPathFactory.newInstance().newXPath();
+		Node node = (Node) XPathLocator.compile(xpath).evaluate(doc, XPathConstants.NODE);
+		node.setTextContent(value);
+		return doc;
+	}
+	
+	
+	/**
+	 * write xml document values to JMX file 
+	 * @param doc
+	 * @param targetJMXFile
+	 * @throws TransformerFactoryConfigurationError
+	 * @throws TransformerException
+	 */
+	public void writeXmlDoc(Document doc ,File targetJMXFile) throws TransformerFactoryConfigurationError, TransformerException {
 		Transformer tf = TransformerFactory.newInstance().newTransformer();
 		tf.setOutputProperty(OutputKeys.INDENT, "yes");
 		tf.setOutputProperty(OutputKeys.METHOD, "xml");
@@ -99,5 +147,4 @@ public class JMXWriter {
 		StreamResult sr = new StreamResult(targetJMXFile);
 		tf.transform(domSource, sr);
 	}
-
 }

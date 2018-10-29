@@ -61,7 +61,7 @@ public class RunningCommandsGenerator {
 		return commandStr;
 	}
 
-	public File generateRunningJMX(TestSuite aSuite, int suiteNum) throws IOException {
+	public File generateRunningJMX(TestSuite aSuite) throws IOException {
 		// generate targeJmx file by copy from template
 		String tmplateStr = aSuite.getTemplatePath();
 		String jmxFolder=aSuite.getJmxFolder();
@@ -81,7 +81,7 @@ public class RunningCommandsGenerator {
 		// write parameters target jmx file
 		this.tasksConfigWriter = new JMXWriter(targetJMXPathStr);
 		try {
-			tasksConfigWriter.writeParasFromSuite(aSuite,suiteNum);
+			tasksConfigWriter.writeParasFromSuite(aSuite);
 		} catch (XPathExpressionException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -101,13 +101,13 @@ public class RunningCommandsGenerator {
 	public ArrayList<String> generateCommands() throws IOException {
 		ArrayList<TestSuite> suiteList = tasksConfigReader.getSuites();
 		ArrayList<String> arr = new ArrayList<String>();
-		int suiteNum=1;
+
 		for (TestSuite aSuite : suiteList) {
-			generateRunningJMX(aSuite,suiteNum);
+			generateRunningJMX(aSuite);
 			String tmpCommand = this.generateCommand(aSuite);
 			logger.info("Generate Batch Command: " + tmpCommand);
 			arr.add(tmpCommand);
-			suiteNum++;
+
 		}
 		return arr;
 	}
@@ -120,14 +120,12 @@ public class RunningCommandsGenerator {
 		try {
 			fopt = new FileOutputStream(batchFile);
 			ArrayList<TestSuite> suiteList = tasksConfigReader.getSuites();
-			int suiteNum=1;
 			for (TestSuite aSuite : suiteList) {
-				generateRunningJMX(aSuite,suiteNum);
+				generateRunningJMX(aSuite);
 				String commands = this.generateCommand(aSuite);
 				fopt.write((commands+"\n").getBytes());
 				fopt.write("sleep 60m\n".getBytes());
 				fopt.flush();
-				suiteNum++;
 			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

@@ -1,0 +1,47 @@
+# document start
+
+## below settings are for global setting
+## be care of not make mistake of name
+suitsName: jing dong yun perf
+jmxFolder: /scripts/jdyun/jmxfolder
+outputFolder: /home/jdan/outputfolder
+templatePath: /opt/template_path
+
+# test run 1
+# run  5 threads. rampup in 1 seconds, duration = 20m , no think time
+SuiteMap1: 
+  suiteName: dy_thread5_ramp1_duration20m
+  jmxFolder: &jmxFolder
+  outputFolder:  &outputFolder
+  templatePath:  /opt/jmx/example_path
+  # mutiple concurrent threads number
+  threads:  5
+  # rampup unit is second
+  rampup:  1
+  ## NOTE : 
+  # loops and duration are Mutually Exclusive , only one can be set in one time
+  # loops and loop_forever are Opossitive, if loops have number , loop_forever are false automatically
+  # duration unit is second
+  duration: 1200
+  # loop times
+  loops: null 
+  # forever run 
+  loop_forever: false
+
+# test run 2
+# run  15 threads. rampup in 1 seconds, duration = 20m , no think time
+SuiteMap2: 
+  suiteName: dy_thread5_ramp1_duration20m
+  jmxFolder: &jmxFolder
+  outputFolder:  &outputFolder
+  templatePath:  /opt/jmx/example_path
+  # mutiple concurrent threads number
+  threads:  15
+  # rampup unit is second
+  rampup:  2.5
+  # duration unit is second
+  duration: 0
+  # loop times
+  loops: 1 
+  # forever run 
+  loop_forever: false

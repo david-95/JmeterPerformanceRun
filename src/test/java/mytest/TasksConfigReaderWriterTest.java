@@ -1,3 +1,5 @@
+package mytest;
+
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -30,19 +32,19 @@ public class TasksConfigReaderWriterTest {
 	
 	@Test
 	public void testSuite() throws DocumentException {
-//		TestSuite hello = new TestSuite("C:\\mavenprj\\JmeterPerfRun\\src\\main\\resources\\JmxPropertiesSetting.xml");
-		TasksConfigReader reader = new TasksConfigReader("C:\\mavenprj\\JmeterPerfRun\\src\\main\\resources\\B2B-SimpleRunningConfigs.xml");
-		reader.setJMX_PropertiesSettingPath("C:\\mavenprj\\JmeterPerfRun\\src\\main\\resources\\JmxPropertiesSetting.xml");
+
+		TasksConfigReader reader = new TasksConfigReader("/home/jdan/javaWorkspace/JmeterPerformanceRun/src/main/resources/B2B-SimpleRunningConfigs.xml");
+		reader.setJMX_PropertiesSettingPath("/home/jdan/javaWorkspace/JmeterPerformanceRun/src/main/resources/JmxPropertiesSetting.xml");
 		ArrayList<TestSuite> result = reader.getSuites();
-		JMXWriter taskWriter = new JMXWriter("c:\\tmp\\B2B_Login_mainPage_Logout_80t_2r_200.jmx");
+		JMXWriter taskWriter = new JMXWriter("/tmp/B2B-Login_mainPage_Logout.jmx");
 	
 		for(TestSuite x:result) {
 			System.out.println(x.getSuiteName()+ ","+ x.getTemplatePath());
 			try {
-				taskWriter.writeParasFromSuite(x,1);
+				taskWriter.writeParasFromSuite(x);
 				
 			} catch (XPathExpressionException e) {
-				// TODO Auto-generated catch block
+				// TODO Auto-generated catch block	
 				e.printStackTrace();
 			} catch (ParserConfigurationException e) {
 				// TODO Auto-generated catch block
@@ -60,5 +62,16 @@ public class TasksConfigReaderWriterTest {
 		}
 		
 		
+	}
+
+	public static void main(String[] args) {
+		TasksConfigReaderWriterTest tester = new TasksConfigReaderWriterTest();
+		try {
+			tester.testSuite();
+		} catch (DocumentException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+				
 	}
 }

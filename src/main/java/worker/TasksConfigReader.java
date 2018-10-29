@@ -38,6 +38,10 @@ public class TasksConfigReader {
 		return this.root.attributeValue("name");
 	}
 	
+	/**
+	 * read xpath value and properties into object (TestSuite) lists
+	 * @return
+	 */
 	public ArrayList<TestSuite> getSuites() {
 
 		ArrayList<TestSuite> result = new ArrayList<TestSuite>();
