@@ -15,9 +15,9 @@ SuiteMap1:
   outputFolder:  &outputFolder
   templatePath:  /opt/jmx/example_path
   # mutiple concurrent threads number
-  threads:  5
+  threads: 5
   # rampup unit is second
-  rampup:  1
+  rampup: 1
   ## NOTE : 
   # loops and duration are Mutually Exclusive , only one can be set in one time
   # loops and loop_forever are Opossitive, if loops have number , loop_forever are false automatically

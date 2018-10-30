@@ -60,7 +60,7 @@ public class TasksConfigReaderWriterTest {
 				e.printStackTrace();
 			}
 		}
-		
+	
 		
 	}
 

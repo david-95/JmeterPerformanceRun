@@ -102,12 +102,22 @@ public class JMXWriter {
 			}
 
 		}
+		validateJMX(suite,valueMap,doc);
+		writeXmlDoc(doc,targetJMXFile);
+	}
+	/**
+	 * validate the JMX  and print warning to log if have invalid setting
+	 * @param suite
+	 * @param valueMap
+	 * @param doc
+	 */
+	public void validateJMX(TestSuite suite,HashMap<String, String> valueMap,Document doc ) {
 		JMXValidator validator= new JMXValidator(doc);
 		String schedulerValue = valueMap.get("ThreadGroup.scheduler");
 		String durationValue= valueMap.get("ThreadGroup.duration");
 		String loopCountValue = valueMap.get("LoopController.loops");
 		validator.validateThreadsDurationAndLoopsByValue(suite.getSuiteName(),schedulerValue, durationValue, loopCountValue);
-		writeXmlDoc(doc,targetJMXFile);
+		
 	}
 
 	/**

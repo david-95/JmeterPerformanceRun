@@ -43,7 +43,12 @@ public class JMXValidator {
 
 	public boolean validateThreadsDurationAndLoopsByValue(String suiteName, String schedulerValue,String durationValue,String loopCountValue) {
 		if(schedulerValue.trim().equals("true") && !durationValue.trim().equals("")&& !loopCountValue.trim().equals("-1")) {
-			logger.warn(suiteName+"scheduler is true  and duration value is not null, but loops count is not -1 , Must set loops = -1 if you use duration setting");
+			logger.warn("\n///////////////////////////////////// \n"
+					+"// " + suiteName + "      ///\n"
+					+"// scheduler=true  and duration value != null \n"
+					+"// but loops count is not -1 , \n"
+					+"// Must set loops = -1 if you use duration setting \n"
+					+"/////////////////////////////////////////////\n");
 			return false;
 		}
 		return true;
