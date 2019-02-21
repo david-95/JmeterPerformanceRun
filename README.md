@@ -70,20 +70,20 @@ you must specify a xml config file , config contents as below:
 </suites>
 ```
 
-## guide for config.xml
-** suites ** 
+## Guide for config.xml
+**suites** 
 Each config.xml have to put configures in "suites" tags, only one pair of suites are allowed
 suite name are needed to mark project name, so you won't be confused which project testing are running
 
-** suite **
+**suite**
 There maybe many suite pairs in config.xml,depending how many cases you need run. When running tests, each suite configuration will be transcibed one jmeter command to execute. after one command execution finished, 60 mins interval will be interceptd, which is to make sure server's performance not be affected by previous running.
 
-** templatePath ** 
+**templatePath** 
 You should record an .jmx file as template, which you can use jmeter recorder to quick done. You should have fully workflow, which present typcial workflow you expect to test. You need put .jmx in your performance testing client, and set the file path to templatePath.
 
-** jmxFolder ** 
+**jmxFolder** 
 Each suite coorespond to one jmx file, This tool will generate a jmx respect to settings in suite pair, and put jmx file to the folder of jmxFolder setting.
 
-** outputFolder ** 
+**outputFolder** 
 Test result will be export to the folder of outputFolder setting.
 
