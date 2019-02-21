@@ -72,18 +72,28 @@ you must specify a xml config file , config contents as below:
 
 ## Guide for config.xml
 **suites** 
+
 Each config.xml have to put configures in "suites" tags, only one pair of suites are allowed
 suite name are needed to mark project name, so you won't be confused which project testing are running
 
 **suite**
+
 There maybe many suite pairs in config.xml,depending how many cases you need run. When running tests, each suite configuration will be transcibed one jmeter command to execute. after one command execution finished, 60 mins interval will be interceptd, which is to make sure server's performance not be affected by previous running.
 
 **templatePath** 
+
 You should record an .jmx file as template, which you can use jmeter recorder to quick done. You should have fully workflow, which present typcial workflow you expect to test. You need put .jmx in your performance testing client, and set the file path to templatePath.
 
 **jmxFolder** 
+
 Each suite coorespond to one jmx file, This tool will generate a jmx respect to settings in suite pair, and put jmx file to the folder of jmxFolder setting.
 
 **outputFolder** 
+
 Test result will be export to the folder of outputFolder setting.
 
+**JmxPropertiesSetting**
+
+Mainly settings for a performance testcase  are in JmxPropertiesSetting pair, template show configs about website performances configures. Actually all type of performances testing are supported in this tools. You can define your own testing config tags. 
+in this tools.
+Open src\main\resources\JmxPropertiesSetting.xml, you can see configs xpath expression definitions. This is core of this tools. If you need add tags in JmxPropertiesSetting, you should get its xpath in a jmx file and added definition in JmxPropertiesSettings.xml. So when running. the tool will firstly search xpath string respect to tags beneath JmxPropertiesSetting, then use the xpath to location properties value, and replace jmx with values for each testing run. 
